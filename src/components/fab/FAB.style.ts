@@ -6,7 +6,7 @@ export const FABContainer = styled.div`
     justify-content: center;
     align-items: center;
     position: fixed;
-    top: 10%;
+    bottom: 10%;
     right: 20%;
     padding: 20px;
     border: 1px solid #F2EDE9;
