@@ -3,6 +3,7 @@ export interface PageContainerProps {
 }
 export interface SectionProps {
     isTwoColumns?: boolean;
+    gap: string;
 }
 
 export interface TextProps {
