@@ -4,8 +4,8 @@ const Bonsai = () => {
     data-name="Layer 1"
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
-    width={1145}
-    height="730.47"
+    width="450"
+    height="450"
     viewBox="0 0 1145 730.47"
     >
     <defs>
