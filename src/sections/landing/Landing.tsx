@@ -2,7 +2,7 @@ import { Article, Div, Figure, Section } from "../../components/containers/Conta
 import { H1 } from "../../components/text/Headings.style";
 import { Text } from "../../components/text/Paragraphs.style";
 import { LandingImage } from "../../components/media/Images.style";
-import Portrait from "../../assets/media/LandingPortrait.jpg";
+import Bonsai from "../../components/media/Bonsai";
 
 const Landing = () => {
   return (
@@ -39,7 +39,7 @@ const Landing = () => {
         </Div>
 
         <Figure>
-            <LandingImage src={Portrait} alt="Matthew's portrait"/>
+            <Bonsai/>
         </Figure>
     </Section>
   )
